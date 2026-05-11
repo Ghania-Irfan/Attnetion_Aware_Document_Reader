@@ -1,0 +1,87 @@
+{
+  "h_mapping": {
+    "coefficients": [
+      19.82231138861431,
+      -14.054542836449697,
+      2.44094457198007
+    ],
+    "type": "polynomial",
+    "degree": 2
+  },
+  "v_mapping": {
+    "coefficients": [
+      163.2814523513959,
+      -118.3922329162384,
+      21.808116420137846
+    ],
+    "type": "polynomial",
+    "degree": 2
+  },
+  "calibration_points": [
+    {
+      "screen_x_norm": 0.1,
+      "screen_y_norm": 0.1,
+      "h_ratio": 0.429880147338546,
+      "v_ratio": 0.35626284338128295
+    },
+    {
+      "screen_x_norm": 0.5,
+      "screen_y_norm": 0.1,
+      "h_ratio": 0.5163784996027394,
+      "v_ratio": 0.34857329509547963
+    },
+    {
+      "screen_x_norm": 0.9,
+      "screen_y_norm": 0.1,
+      "h_ratio": 0.5703865010950452,
+      "v_ratio": 0.3742678932080599
+    },
+    {
+      "screen_x_norm": 0.1,
+      "screen_y_norm": 0.5,
+      "h_ratio": 0.4401919452805044,
+      "v_ratio": 0.3342047649403735
+    },
+    {
+      "screen_x_norm": 0.5,
+      "screen_y_norm": 0.5,
+      "h_ratio": 0.5142971065037104,
+      "v_ratio": 0.353067441921563
+    },
+    {
+      "screen_x_norm": 0.9,
+      "screen_y_norm": 0.5,
+      "h_ratio": 0.5634301924048019,
+      "v_ratio": 0.3833777446654339
+    },
+    {
+      "screen_x_norm": 0.1,
+      "screen_y_norm": 0.9,
+      "h_ratio": 0.46250226177762715,
+      "v_ratio": 0.30473993791073517
+    },
+    {
+      "screen_x_norm": 0.5,
+      "screen_y_norm": 0.9,
+      "h_ratio": 0.5318837085948865,
+      "v_ratio": 0.3593086513721443
+    },
+    {
+      "screen_x_norm": 0.9,
+      "screen_y_norm": 0.9,
+      "h_ratio": 0.5819782111896359,
+      "v_ratio": 0.42064073342510166
+    }
+  ],
+  "r_squared_h": 0.9688588055920502,
+  "r_squared_v": 0.43235329638221687,
+  "head_reference": {
+    "nose_x": 0.5470334036009652,
+    "nose_y": 0.5809639096260071,
+    "eye_distance": 0.1579035371541977
+  },
+  "h_min": 0.429880147338546,
+  "h_max": 0.5819782111896359,
+  "v_min": 0.30473993791073517,
+  "v_max": 0.42064073342510166
+}
